@@ -1,0 +1,20 @@
+/node_modules
+/client/node_modules
+/server/node_modules
+/server/dist
+/server/.env
+.idea/
+/client/.angular
+/client/.vscode
+
+
+# Mac files
+.DS_Store
+/server/.DS_Store
+/client/.DS_Store
+/server/documentation
+/documentation
+
+package-lock.json
+/client/package-lock.json
+/server/package-lock.json
