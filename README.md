@@ -1,5 +1,11 @@
 # Location Map App
 
+##Clone the repository
+
+```
+git clone git@github.com:sabadjiev/location-map.git 
+```
+
 ## Start Server
 
 ```
